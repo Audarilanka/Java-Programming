@@ -4,7 +4,7 @@ import java.io.*;
 
 
 
-public class JavaLoops {
+public class JavaLoops{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

@@ -11,6 +11,7 @@ public class JavaStdinStdouttwo{
     System.out.println("String: " + z);
     System.out.println("Double: " + y);
     System.out.println("Int: " + x);
+    in.close();
     
     }
     

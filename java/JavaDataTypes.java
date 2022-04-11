@@ -1,5 +1,5 @@
 import java.util.*;
-import java.io.*;
+
 
 class Solution{
     public static void main(String []argh)
@@ -25,7 +25,7 @@ class Solution{
                 System.out.println("* long");
         }
         catch(Exception e)
-        
+
         {
             System.out.println(sc.next()+" can't be fitted anywhere.");
             sc.close();

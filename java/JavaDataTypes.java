@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 class JavaDataTypes{
     public static void main(String []argh)
     {

@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-class Solution{
+class JavaDataTypes{
     public static void main(String []argh)
     {
 

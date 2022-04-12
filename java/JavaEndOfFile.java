@@ -10,7 +10,7 @@ public class JavaEndOfFile {
         while(scan.hasNext()){
        i++;
        System.out.println(i + " " + scan.nextLine());
-       scan.
+       scan.close
    }
     }
 }

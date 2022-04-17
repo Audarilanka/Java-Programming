@@ -8,7 +8,6 @@ public class StdinStdout {
         int a = scan.nextInt();
         scan.close();
         
-
         System.out.println(x);
         System.out.println(y);
         System.out.println(a);

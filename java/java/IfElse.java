@@ -16,8 +16,7 @@ public class IfElse{
             System.out.println("Not Weird");
         }
          in.close();       
-                                         
-        
-    }
+                                       
+            }
     
 }

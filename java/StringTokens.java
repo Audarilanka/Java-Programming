@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class StringTokens {
     public static void main(String[] args) {
         /* Read input */
         Scanner scan = new Scanner(System.in);

@@ -14,7 +14,7 @@ public class PatternSyntaxChecker {
                 System.out.println("Invalid");
             }
             testCases--;
-            // Write your code
+
         }
     }
 }

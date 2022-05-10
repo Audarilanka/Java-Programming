@@ -8,7 +8,6 @@ public class Solution {
         double payment = scanner.nextDouble();
         scanner.close();
 
-        // Write your code here.
         Locale indiaLocale = new Locale("en", "IN");
 
         NumberFormat us = NumberFormat.getCurrencyInstance(Locale.US);

@@ -10,7 +10,6 @@ public class JavaStaticInitializerBlock {
     static int B, H;
 
     static {
-
         Scanner scan = new Scanner(System.in);
         B = scan.nextInt();
         scan.nextLine();
